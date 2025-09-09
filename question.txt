@@ -1,0 +1,31 @@
+Question 1
+Git est un système permétent de syncronisé l'évolution d'un projet entre un ordinateur et un serveur, même si celui-ci est hors-ligne a certain moment, en revanche githube est comme sont nom l'indique une plateforme web servant a hébergé des dépot git et favorise leur fonctionement comparé a d'autre plateforme
+
+Question 2
+Un repository est un espace de stockage qui facilite grandement une colaboration entre plusieur personne sur un même projet
+
+Question 3
+Un commit est un système permétant de voir les modification apporté a un document de puis le dernier commit éffectué
+Un push (a ne pas confondre avec une notification push) est une publication d'une modification sur un répository
+Un pull (en informatique, pas en mode) est une demande de récupération d'une information dans un système git ou repository
+
+Question 4
+Le fichier README.md dans un repository GitHub est un fichier regroupant des information inportante notament sur l'instalation, l'utilisation, la roadmap et la licence sur les autre fichier du repository
+
+Question 5
+Pour récupéré un repository GitHube, il faut instalé le Git, puis éxécuté git clone <URL-du-dépôt> et enfin utilisé git pull origin main pour synchroniser les dernières modifications après clonage
+
+Question 6
+Un OS (operating system) est un ensemble de logiciel qui permette de faire fonctioné les composant de sont ordinateur, géré des fichier, s'occupe de l'interface homme-machine et permet de faire fonctioné d'autre logiciel
+
+Question 7
+Les 3 grande famille d'OS (en informatique, pas en médecine) sont Windows, macOS et Linux
+
+Question 8
+Linux est une famille d'OS open source fonctionent grace a un noyau linux
+
+Question 9
+Ubuntu, Debian, Arch Linux et Fedora sont des OS a noyau linux et donc de la famille linux
+
+Question 10
+Linux se distingue par étant open-source et gratuit, très personalisable et communautaire
